@@ -6,6 +6,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - whileLooping",
+            "request": "launch",
+            "mainClass": "whileLooping"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - populatingHashMap",
+            "request": "launch",
+            "mainClass": "populatingHashMap"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - whileLopping",
+            "request": "launch",
+            "mainClass": "whileLopping"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - codingChallenge",
             "request": "launch",
             "mainClass": "codingChallenge",

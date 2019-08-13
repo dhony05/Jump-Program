@@ -6,6 +6,7 @@ public class populatingHashMap {
         populatingString_String("hello", "hola");
         int[] newArray = { 5, 2, 4, 5, 6, 7, 3, 12, 14, 10, 100, 400, 34, 30 };
         populatingDivFive(newArray);
+        
     }
 
     /*

@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EvenOdd",
+            "request": "launch",
+            "mainClass": "EvenOdd",
+            "projectName": "Jump-Program_942420f5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - merginBy3",
+            "request": "launch",
+            "mainClass": "merginBy3",
+            "projectName": "Jump-Program_942420f5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - whileLopping",
+            "request": "launch",
+            "mainClass": "whileLopping"
+        }
+    ]
+}
