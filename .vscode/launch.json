@@ -2,6 +2,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - AnonymousClass",
+            "request": "launch",
+            "mainClass": "AnonymousClass",
+            "projectName": "Jump-Program_942420f5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Aerobic",
+            "request": "launch",
+            "mainClass": "Aerobic",
+            "projectName": "Jump-Program_942420f5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AssertionExample",
+            "request": "launch",
+            "mainClass": "AssertionExample",
+            "projectName": "Jump-Program_942420f5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AccessModifiers",
+            "request": "launch",
+            "mainClass": "AccessModifiers",
+            "projectName": "Jump-Program_942420f5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AssertionsExample",
+            "request": "launch",
+            "mainClass": "AssertionsExample",
+            "projectName": "Jump-Program_942420f5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - overloading",
+            "request": "launch",
+            "mainClass": "overloading",
+            "projectName": "Jump-Program_942420f5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pack",
+            "request": "launch",
+            "mainClass": "pack",
+            "projectName": "Jump-Program_942420f5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AssertionsClass",
+            "request": "launch",
+            "mainClass": "AssertionsClass",
+            "projectName": "Jump-Program_942420f5"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - EvenOdd",
             "request": "launch",
             "mainClass": "EvenOdd",
