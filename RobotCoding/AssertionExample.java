@@ -14,11 +14,8 @@ public class AssertionExample{
     sc.close();   
     }
     public static void checkingAge(int age){
-        if(age >= 21){
-            System.out.println("The person is " + age + " years old and can drink alcohol.");
-        }else{
             assert age >= 21 : "The person is underage, therefore can't drink alcohol";
-        }
+            System.out.println("The person is " + age + " years old and can drink alcohol.");
 
     }
 }

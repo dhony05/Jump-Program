@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SynchonizedExample",
+            "request": "launch",
+            "mainClass": "SynchonizedExample",
+            "projectName": "Jump-Program_942420f5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadRunner",
+            "request": "launch",
+            "mainClass": "ThreadRunner",
+            "projectName": "Jump-Program_942420f5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NumberCounter",
+            "request": "launch",
+            "mainClass": "NumberCounter",
+            "projectName": "Jump-Program_942420f5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - cloneChallenge",
+            "request": "launch",
+            "mainClass": "cloneChallenge",
+            "projectName": "Jump-Program_942420f5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SynchronizedClass",
+            "request": "launch",
+            "mainClass": "SynchronizedClass",
+            "projectName": "Jump-Program_942420f5"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - AnonymousClass",
             "request": "launch",
             "mainClass": "AnonymousClass",

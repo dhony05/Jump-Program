@@ -4,7 +4,7 @@
     the program will contain a method and with in the method an Assertion statement
     
     Output if have the right age to drink:
-    "The person is "  age  " years old and can drink alcohol."
+    "The person is " + age + " years old and can drink alcohol."
 
     Output otherwise :
     "The person is underage, therefore can't drink alcohol"
