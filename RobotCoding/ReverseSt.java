@@ -11,7 +11,7 @@ public class ReverseSt{
 
         StringBuider sb = new StringBuilder();
         for (int i = 0; i < newS.length; i++) {
-            newS[i] = new[i].s
+            newS[i] = newS[i].s;
 
 
             

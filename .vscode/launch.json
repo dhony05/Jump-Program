@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MethodsRef",
+            "request": "launch",
+            "mainClass": "MethodsRef",
+            "projectName": "Jump-Program_942420f5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LambdaEx",
+            "request": "launch",
+            "mainClass": "LambdaEx",
+            "projectName": "Jump-Program_942420f5"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - CloneDemo",
             "request": "launch",
             "mainClass": "CloneDemo",
