@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CloneDemo",
+            "request": "launch",
+            "mainClass": "CloneDemo",
+            "projectName": "Jump-Program_942420f5"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SynchonizedExample",
             "request": "launch",
             "mainClass": "SynchonizedExample",
